@@ -1,1 +1,1 @@
-CV fait avec du json afin de remplir les differentes parties.
+CV fait avec du json.
